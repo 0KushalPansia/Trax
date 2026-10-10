@@ -1,0 +1,6 @@
+{
+  "name": "TRAX - Habit Tracker",
+  "description": "A simple, clear habit tracker designed for students and busy people to maintain routines and track daily progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
